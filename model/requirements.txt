@@ -1,0 +1,12 @@
+torch>=2.1
+torchaudio>=2.1
+numpy>=1.24
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.3
+tensorboard>=2.14
+onnx>=1.15
+onnxruntime>=1.16
+tqdm>=4.66
+librosa>=0.10
+soundfile>=0.12
